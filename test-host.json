@@ -1,0 +1,12 @@
+{
+  "code": 200,
+  "msg": "ok",
+  "host": [
+    "aHR0cHM6Ly9tcXFweGt0LmNvbS8=",
+	"aHR0cHM6Ly9tcXFweGt0LmNvbS8=",
+	"aHR0cHM6Ly9tcXFweGt0LmNvbS8="
+  ],
+  "versionCode": 1,
+  "apkNewUrl": "https:\/\/app-release.apk",
+  "apkUpdateHint": "发现新版本请立即升级"
+}
